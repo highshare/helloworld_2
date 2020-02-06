@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [05/Feb/2020:11:57:38 +0800] "GET /maven_itheima_web/items/findItemById HTTP/1.1" 200 646 http-bio-8080-exec-1 13138
+0:0:0:0:0:0:0:1 - - [05/Feb/2020:11:57:38 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
